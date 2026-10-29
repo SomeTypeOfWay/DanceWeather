@@ -1,0 +1,22 @@
+{
+  "city": "New York",
+  "timezone": "America/New_York",
+  "daysAhead": 42,
+  "userAgent": "DanceWeather/1.0 (github.com/YOUR-USERNAME/danceweather)",
+  "edmtrain": {
+    "state": "New York",
+    "cities": ["New York", "Brooklyn", "Queens", "New York City"]
+  },
+  "ticketmaster": {
+    "dmaId": "345",
+    "segmentId": "KZFzniwnSyZfZ7v7nJ",
+    "classificationName": "Dance/Electronic",
+    "maxPages": 5
+  },
+  "reddit": {
+    "subreddits": ["avesNYC"],
+    "pages": 3,
+    "days": 21
+  },
+  "feeds": []
+}

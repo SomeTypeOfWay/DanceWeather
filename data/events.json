@@ -1,0 +1,1525 @@
+{
+ "updated": "2026-10-29T20:23:40.433Z",
+ "today": "2026-10-29",
+ "through": "2026-12-10",
+ "city": "New York",
+ "counts": {
+  "manual": 68,
+  "edmtrain": 0,
+  "ticketmaster": 0,
+  "feeds": 0,
+  "reddit": 0
+ },
+ "venues": {
+  "sultan-room": {
+   "n": "Sultan Room",
+   "a": "Bushwick",
+   "x": 286,
+   "y": 226
+  },
+  "house-of-yes": {
+   "n": "House of Yes",
+   "a": "Bushwick",
+   "x": 306,
+   "y": 212
+  },
+  "brooklyn-storehouse": {
+   "n": "Brooklyn Storehouse",
+   "a": "Navy Yard",
+   "x": 150,
+   "y": 224
+  },
+  "tba-brooklyn": {
+   "n": "TBA Brooklyn",
+   "a": "Williamsburg",
+   "x": 166,
+   "y": 190
+  },
+  "industry-city": {
+   "n": "Industry City",
+   "a": "Sunset Park",
+   "x": 40,
+   "y": 384
+  },
+  "moxy-williamsburg": {
+   "n": "Moxy Williamsburg",
+   "a": "Williamsburg",
+   "x": 192,
+   "y": 200
+  },
+  "nebula": {
+   "n": "Nebula",
+   "a": "Midtown",
+   "x": 112,
+   "y": 22
+  },
+  "newsroom": {
+   "n": "Newsroom",
+   "a": "Long Island City",
+   "x": 222,
+   "y": 34
+  },
+  "racket": {
+   "n": "Racket",
+   "a": "Chelsea",
+   "x": 48,
+   "y": 34
+  },
+  "h0l0": {
+   "n": "H0L0",
+   "a": "Ridgewood",
+   "x": 352,
+   "y": 222
+  },
+  "elsewhere": {
+   "n": "Elsewhere",
+   "a": "Bushwick",
+   "x": 302,
+   "y": 192
+  },
+  "dead-letter-no-9": {
+   "n": "Dead Letter No. 9",
+   "a": "Williamsburg",
+   "x": 168,
+   "y": 166
+  },
+  "gum-studios": {
+   "n": "GUM Studios",
+   "a": "Sunset Park",
+   "x": 26,
+   "y": 410
+  },
+  "silo": {
+   "n": "SILO",
+   "a": "East Williamsburg",
+   "x": 256,
+   "y": 158
+  },
+  "paragon": {
+   "n": "Paragon",
+   "a": "Bushwick",
+   "x": 258,
+   "y": 240
+  },
+  "refuge": {
+   "n": "Refuge",
+   "a": "East Williamsburg",
+   "x": 250,
+   "y": 180
+  },
+  "superior-ingredients": {
+   "n": "Superior Ingredients",
+   "a": "Williamsburg",
+   "x": 178,
+   "y": 140
+  },
+  "3-dollar-bill": {
+   "n": "3 Dollar Bill",
+   "a": "East Williamsburg",
+   "x": 238,
+   "y": 198
+  },
+  "1-hotel-brooklyn-bridge": {
+   "n": "1 Hotel Brooklyn Bridge",
+   "a": "DUMBO",
+   "x": 92,
+   "y": 222
+  },
+  "knockdown-center": {
+   "n": "Knockdown Center",
+   "a": "Maspeth",
+   "x": 324,
+   "y": 158
+  },
+  "brooklyn-pacha": {
+   "n": "Brooklyn Pacha",
+   "a": "East Williamsburg",
+   "x": 278,
+   "y": 178
+  },
+  "terminal-5": {
+   "n": "Terminal 5",
+   "a": "Hell’s Kitchen",
+   "x": 90,
+   "y": 8
+  },
+  "le-poisson-rouge": {
+   "n": "Le Poisson Rouge",
+   "a": "Greenwich Village",
+   "x": 60,
+   "y": 120
+  },
+  "public-records": {
+   "n": "Public Records",
+   "a": "Gowanus",
+   "x": 93,
+   "y": 289
+  },
+  "duggal-greenhouse": {
+   "n": "Duggal Greenhouse",
+   "a": "Navy Yard",
+   "x": 146,
+   "y": 205
+  },
+  "melrose-ballroom": {
+   "n": "Melrose Ballroom",
+   "a": "Long Island City",
+   "x": 279,
+   "y": 18
+  }
+ },
+ "events": [
+  {
+   "id": "1029-dyke-o-ween",
+   "d": "2026-10-29",
+   "n": "DYKE-o-Ween",
+   "v": "sultan-room",
+   "names": [
+    "DJ Ultra Violet",
+    "DJ Purr",
+    "DJ Kye"
+   ],
+   "s": 20.5,
+   "lvl": 1,
+   "note": "Night one of the Sultan Room’s Halloweekend",
+   "url": "https://www.bkmag.com/2026/10/28/best-halloween-parties-brooklyn-nyc/",
+   "src": "Brooklyn Magazine",
+   "srcs": [
+    "Brooklyn Magazine"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1029-gaydar-halloween",
+   "d": "2026-10-29",
+   "n": "Gaydar Halloween",
+   "v": "house-of-yes",
+   "names": [],
+   "lvl": 2,
+   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
+   "src": "Dice",
+   "srcs": [
+    "Dice"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1030-fruit-juice-witches-brew",
+   "d": "2026-10-30",
+   "n": "Fruit Juice: Witches Brew",
+   "v": "sultan-room",
+   "names": [],
+   "s": 21,
+   "lvl": 1,
+   "note": "DJs, dancers, tattoos and tarot",
+   "url": "https://www.bkmag.com/2026/10/28/best-halloween-parties-brooklyn-nyc/",
+   "src": "Brooklyn Magazine",
+   "srcs": [
+    "Brooklyn Magazine"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1030-circoloco-halloween",
+   "d": "2026-10-30",
+   "n": "Circoloco Halloween",
+   "v": "brooklyn-storehouse",
+   "names": [
+    "Seth Troxler",
+    "Mochakk",
+    "&ME",
+    "Rampa",
+    "Carlita",
+    "Beltran",
+    "Konstantin",
+    "map.ache"
+   ],
+   "s": 22,
+   "lvl": 5,
+   "status": "Sold out · waitlist",
+   "by": "Teksupport × Circoloco · 21+",
+   "url": "https://brooklynstorehouse.com/whats-on/",
+   "src": "Brooklyn Storehouse",
+   "srcs": [
+    "Brooklyn Storehouse"
+   ],
+   "series": "circoloco-halloween",
+   "mentions": 0
+  },
+  {
+   "id": "1030-moxy-halloween",
+   "d": "2026-10-30",
+   "n": "Moxy Halloween",
+   "v": "moxy-williamsburg",
+   "names": [],
+   "s": 22,
+   "lvl": 1,
+   "note": "Multi-room costume party",
+   "url": "https://www.alwaysthevip.com/featured-events/halloween-parties/",
+   "src": "Always The VIP",
+   "srcs": [
+    "Always The VIP"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1030-haunted-speakeasy",
+   "d": "2026-10-30",
+   "n": "The Haunted Speakeasy",
+   "v": "newsroom",
+   "names": [],
+   "s": 22,
+   "e": 28,
+   "lvl": 1,
+   "status": "$10",
+   "note": "Vodka open bar 10–11P",
+   "url": "https://ra.co/events/2558249",
+   "src": "RA",
+   "srcs": [
+    "RA"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1030-merge-halloween",
+   "d": "2026-10-30",
+   "n": "Merge Halloween",
+   "v": "tba-brooklyn",
+   "names": [
+    "Robert Hood",
+    "Fadi Mohem",
+    "Phase Fatale",
+    "Ignez",
+    "Ne/Re/A",
+    "Yonti",
+    "Annie Lew"
+   ],
+   "s": 23,
+   "e": 37,
+   "lvl": 4,
+   "status": "Address sent at 9P",
+   "note": "Queer hardgroove night",
+   "url": "https://events.musicofourdesire.com/event/0lxd-merge-halloween-event-new-york-city-united-states",
+   "src": "Event listing",
+   "srcs": [
+    "Event listing"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1030-vampire-ball-mischief-night",
+   "d": "2026-10-30",
+   "n": "The Vampire Ball · Mischief Night",
+   "v": "industry-city",
+   "names": [],
+   "lvl": 2,
+   "url": "https://dice.fm/browse/new_york-5bbf4db0f06331478e9b2c59/music/party/techno",
+   "src": "Dice",
+   "srcs": [
+    "Dice"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1030-nebula-halloween",
+   "d": "2026-10-30",
+   "n": "Nebula Halloween",
+   "v": "nebula",
+   "names": [],
+   "lvl": 2,
+   "note": "Costume contest with cash prizes",
+   "url": "https://dice.fm/browse/new_york-5bbf4db0f06331478e9b2c59/music/party/techno",
+   "src": "Dice",
+   "srcs": [
+    "Dice"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1031-halloweentown",
+   "d": "2026-10-31",
+   "n": "Halloweentown",
+   "v": "3-dollar-bill",
+   "names": [
+    "Latrice Royale"
+   ],
+   "s": 21,
+   "e": 28,
+   "lvl": 1,
+   "note": "Two dance floors, midnight costume contest",
+   "url": "https://www.3dollarbillbk.com/rsvp",
+   "src": "3 Dollar Bill",
+   "srcs": [
+    "3 Dollar Bill"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1031-circoloco-halloween",
+   "d": "2026-10-31",
+   "n": "Circoloco Halloween",
+   "v": "brooklyn-storehouse",
+   "names": [
+    "Dixon",
+    "ANOTR",
+    "Jimi Jules",
+    "Rossi.",
+    "Aline Umber",
+    "Jamback",
+    "K:ROL"
+   ],
+   "s": 22,
+   "lvl": 5,
+   "status": "Sold out · waitlist",
+   "by": "Teksupport × Circoloco · 21+",
+   "url": "https://brooklynstorehouse.com/whats-on/",
+   "src": "Brooklyn Storehouse",
+   "srcs": [
+    "Brooklyn Storehouse"
+   ],
+   "series": "circoloco-halloween",
+   "mentions": 0
+  },
+  {
+   "id": "1031-bassvictim-halloween-afterparty",
+   "d": "2026-10-31",
+   "n": "Bassvictim Halloween Afterparty",
+   "v": "gum-studios",
+   "names": [
+    "Bassvictim",
+    "F1LTHY",
+    "Toxe",
+    "DJH",
+    "Thoom",
+    "Nurse",
+    "MAXWELL VICE",
+    "EMMA X"
+   ],
+   "s": 22,
+   "e": 28,
+   "lvl": 2,
+   "status": "On Posh",
+   "note": "Circus-themed warehouse rave",
+   "url": "https://events.musicofourdesire.com/event/rdsh-circus-maximus-halloween-rave-party-new-york-city-united-states",
+   "src": "Event listing",
+   "srcs": [
+    "Event listing"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1031-rooftop-halloween",
+   "d": "2026-10-31",
+   "n": "Rooftop Halloween",
+   "v": "superior-ingredients",
+   "names": [
+    "Pshah",
+    "Cutback",
+    "Tim Houston",
+    "Vitamin K",
+    "Lilyana",
+    "Liard",
+    "Ben Salazar",
+    "Riri Maul"
+   ],
+   "s": 22,
+   "lvl": 3,
+   "note": "Glass-enclosed rooftop",
+   "url": "https://www.alwaysthevip.com/featured-events/halloween-parties/",
+   "src": "Always The VIP",
+   "srcs": [
+    "Always The VIP"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1031-dawn-of-djs-ii",
+   "d": "2026-10-31",
+   "n": "Dawn of the DJs II",
+   "v": "tba-brooklyn",
+   "names": [
+    "DJ Bone",
+    "Priori",
+    "Galcher Lustwerk (live)"
+   ],
+   "lvl": 3,
+   "status": "RA Pick",
+   "note": "Golden Record NYC · house and techno over two days",
+   "url": "https://ra.co/events/2438874",
+   "src": "RA Picks",
+   "srcs": [
+    "RA Picks"
+   ],
+   "series": "dawn-of-the-djs",
+   "raPick": true,
+   "mentions": 0
+  },
+  {
+   "id": "1031-paul-oakenfold-and-crystal-method",
+   "d": "2026-10-31",
+   "n": "Paul Oakenfold & The Crystal Method",
+   "v": "racket",
+   "names": [
+    "Paul Oakenfold",
+    "The Crystal Method",
+    "Liquid Todd"
+   ],
+   "lvl": 3,
+   "status": "RA Pick",
+   "note": "Trance and big beat",
+   "url": "https://ra.co/events/2438874",
+   "src": "RA Picks",
+   "srcs": [
+    "RA Picks"
+   ],
+   "raPick": true,
+   "mentions": 0
+  },
+  {
+   "id": "1031-resolute-why-so-serious",
+   "d": "2026-10-31",
+   "n": "Resolute: Why So Serious",
+   "v": "h0l0",
+   "names": [],
+   "lvl": 3,
+   "status": "$110 · three days",
+   "note": "Halloween run through Monday",
+   "url": "https://shotgun.live/en/cities/new-york/techno",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "series": "resolute-halloween",
+   "mentions": 0
+  },
+  {
+   "id": "1031-elsewhere-halloween",
+   "d": "2026-10-31",
+   "n": "Elsewhere Halloween",
+   "v": "elsewhere",
+   "names": [
+    "Major League DJz",
+    "Bantu",
+    "SAIDAH",
+    "D Stone",
+    "Ariel Lights b2b Sissy Elliott",
+    "Kush Jones"
+   ],
+   "lvl": 3,
+   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
+   "src": "Dice",
+   "srcs": [
+    "Dice"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1031-eyes-wide-open-pt-4-of-4",
+   "d": "2026-10-31",
+   "n": "Eyes Wide Open · Pt. 4 of 4",
+   "v": "dead-letter-no-9",
+   "names": [
+    "Sterling Juan Diaz",
+    "Haruka",
+    "KNDYFRK"
+   ],
+   "lvl": 2,
+   "status": "Billed as final night",
+   "url": "https://ra.co/events/2438874",
+   "src": "RA Picks",
+   "srcs": [
+    "RA Picks"
+   ],
+   "raPick": true,
+   "final": true,
+   "mentions": 0
+  },
+  {
+   "id": "1031-halloween-at-silo",
+   "d": "2026-10-31",
+   "n": "Halloween at SILO",
+   "v": "silo",
+   "names": [
+    "Xenia",
+    "Firebunny",
+    "Steen"
+   ],
+   "lvl": 2,
+   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
+   "src": "Dice",
+   "srcs": [
+    "Dice"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1031-house-of-hallucinations",
+   "d": "2026-10-31",
+   "n": "House of Hallucinations",
+   "v": "house-of-yes",
+   "names": [
+    "Ines Rau",
+    "Baltra",
+    "Lingua Erotica",
+    "Sharlese",
+    "Lauren Ritter",
+    "America Rose"
+   ],
+   "lvl": 3,
+   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
+   "src": "Dice",
+   "srcs": [
+    "Dice"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1031-paragon-halloween",
+   "d": "2026-10-31",
+   "n": "Paragon Halloween",
+   "v": "paragon",
+   "names": [
+    "Boris",
+    "Juana",
+    "VILE",
+    "DJ SWISHA",
+    "NextDi"
+   ],
+   "lvl": 3,
+   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
+   "src": "Dice",
+   "srcs": [
+    "Dice"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1031-nicole-moudaber",
+   "d": "2026-10-31",
+   "n": "Nicole Moudaber",
+   "v": "refuge",
+   "names": [
+    "Nicole Moudaber"
+   ],
+   "lvl": 1,
+   "url": "https://www.shazam.com/en-us/events/new-york-ny-united-states/-/-/techno-1050",
+   "src": "Shazam",
+   "srcs": [
+    "Shazam"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1031-vampire-ball-all-hallows-eve",
+   "d": "2026-10-31",
+   "n": "The Vampire Ball · All Hallows Eve",
+   "v": "industry-city",
+   "names": [],
+   "lvl": 2,
+   "url": "https://dice.fm/browse/new_york-5bbf4db0f06331478e9b2c59/music/party/techno",
+   "src": "Dice",
+   "srcs": [
+    "Dice"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1031-feedbk-halloween",
+   "d": "2026-10-31",
+   "n": "Feedbk Halloween",
+   "where": "Feedbk",
+   "names": [
+    "Faciendo Soundsystem"
+   ],
+   "lvl": 1,
+   "status": "$22.70",
+   "note": "Runs Oct 31 – Nov 2",
+   "url": "https://shotgun.live/en/cities/new-york/house",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "series": "feedbk-halloween",
+   "mentions": 0
+  },
+  {
+   "id": "1101-circoloco-halloween",
+   "d": "2026-11-01",
+   "n": "Circoloco Halloween",
+   "v": "brooklyn-storehouse",
+   "names": [
+    "Dixon",
+    "Bedouin",
+    "Chloé Caillet",
+    "Prospa",
+    "Jimi Jules",
+    "Rossi.",
+    "Dean Turnley",
+    "Miguelle & Tons"
+   ],
+   "s": 12,
+   "e": 24,
+   "lvl": 5,
+   "status": "On sale · from $180",
+   "by": "Teksupport × Circoloco · 21+",
+   "url": "https://brooklynstorehouse.com/whats-on/",
+   "src": "Brooklyn Storehouse",
+   "srcs": [
+    "Brooklyn Storehouse"
+   ],
+   "series": "circoloco-halloween",
+   "mentions": 0
+  },
+  {
+   "id": "1101-resolute-why-so-serious-day-two",
+   "d": "2026-11-01",
+   "n": "Resolute: Why So Serious · day two",
+   "v": "h0l0",
+   "names": [],
+   "lvl": 3,
+   "status": "$110 · three days",
+   "url": "https://shotgun.live/en/cities/new-york/techno",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "series": "resolute-halloween",
+   "mentions": 0
+  },
+  {
+   "id": "1101-dawn-of-djs-ii-day-two",
+   "d": "2026-11-01",
+   "n": "Dawn of the DJs II · day two",
+   "v": "tba-brooklyn",
+   "names": [
+    "DJ Bone",
+    "Priori",
+    "Galcher Lustwerk (live)"
+   ],
+   "lvl": 3,
+   "status": "RA Pick",
+   "url": "https://ra.co/events/2438874",
+   "src": "RA Picks",
+   "srcs": [
+    "RA Picks"
+   ],
+   "series": "dawn-of-the-djs",
+   "raPick": true,
+   "mentions": 0
+  },
+  {
+   "id": "1101-day-of-dead",
+   "d": "2026-11-01",
+   "n": "Day of the Dead",
+   "v": "1-hotel-brooklyn-bridge",
+   "names": [],
+   "lvl": 1,
+   "status": "$33.99",
+   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
+   "src": "Dice",
+   "srcs": [
+    "Dice"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1101-feedbk-halloween-day-two",
+   "d": "2026-11-01",
+   "n": "Feedbk Halloween · day two",
+   "where": "Feedbk",
+   "names": [
+    "Faciendo Soundsystem"
+   ],
+   "lvl": 1,
+   "url": "https://shotgun.live/en/cities/new-york/house",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "series": "feedbk-halloween",
+   "mentions": 0
+  },
+  {
+   "id": "1102-blaze",
+   "d": "2026-11-02",
+   "n": "The Blaze",
+   "v": "knockdown-center",
+   "names": [
+    "The Blaze"
+   ],
+   "lvl": 3,
+   "note": "Live electronic show",
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1102-resolute-why-so-serious-closing",
+   "d": "2026-11-02",
+   "n": "Resolute: Why So Serious · closing",
+   "v": "h0l0",
+   "names": [],
+   "lvl": 2,
+   "url": "https://shotgun.live/en/cities/new-york/techno",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "series": "resolute-halloween",
+   "mentions": 0
+  },
+  {
+   "id": "1102-feedbk-halloween-day-three",
+   "d": "2026-11-02",
+   "n": "Feedbk Halloween · day three",
+   "where": "Feedbk",
+   "names": [
+    "Faciendo Soundsystem"
+   ],
+   "lvl": 1,
+   "url": "https://shotgun.live/en/cities/new-york/house",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "series": "feedbk-halloween",
+   "mentions": 0
+  },
+  {
+   "id": "1105-feedbk-rcr",
+   "d": "2026-11-05",
+   "n": "Feedbk × RCR",
+   "where": "Feedbk",
+   "names": [
+    "Jeny Michelle",
+    "Shanti Mane"
+   ],
+   "s": 19,
+   "lvl": 1,
+   "status": "$15",
+   "url": "https://shotgun.live/en/cities/new-york/techno",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1105-boy-harsher",
+   "d": "2026-11-05",
+   "n": "Boy Harsher",
+   "v": "knockdown-center",
+   "names": [
+    "Boy Harsher",
+    "True Blue",
+    "Kassie Krut"
+   ],
+   "lvl": 3,
+   "note": "Darkwave",
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1106-brooklyn-pacha-opening-party",
+   "d": "2026-11-06",
+   "n": "Brooklyn Pacha Opening Party",
+   "v": "brooklyn-pacha",
+   "names": [
+    "Loco Dice",
+    "Ilario Alicante",
+    "HoneyLuv"
+   ],
+   "s": 22,
+   "e": 28,
+   "lvl": 3,
+   "status": "Opening night",
+   "note": "The old Great Hall, reopened",
+   "url": "https://pacha-nyc.com/",
+   "src": "Pacha New York",
+   "srcs": [
+    "Pacha New York"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1106-kein-klub",
+   "d": "2026-11-06",
+   "n": "Kein Klub",
+   "v": "h0l0",
+   "names": [
+    "Martyn",
+    "Kendal"
+   ],
+   "s": 22,
+   "lvl": 2,
+   "status": "$28.38",
+   "url": "https://shotgun.live/en/cities/new-york/techno",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1106-aerea",
+   "d": "2026-11-06",
+   "n": "AEREA",
+   "v": "elsewhere",
+   "names": [
+    "AEREA"
+   ],
+   "s": 22.5,
+   "lvl": 2,
+   "status": "From $21",
+   "url": "https://lotta.events/event/aerea-21-at-elsewhere-620f84",
+   "src": "Lotta",
+   "srcs": [
+    "Lotta"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1106-brutalismus-3000",
+   "d": "2026-11-06",
+   "n": "Brutalismus 3000",
+   "v": "knockdown-center",
+   "names": [
+    "Brutalismus 3000",
+    "SPFDJ",
+    "eera",
+    "Dorian Electra (DJ set)",
+    "Nurse",
+    "Bodybag"
+   ],
+   "lvl": 4,
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1106-emancipator",
+   "d": "2026-11-06",
+   "n": "Emancipator",
+   "v": "elsewhere",
+   "names": [
+    "Emancipator",
+    "Lapa",
+    "Shrimpnose"
+   ],
+   "lvl": 2,
+   "note": "In The Hall",
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1106-interstellar-funk-at-signal",
+   "d": "2026-11-06",
+   "n": "Interstellar Funk at Signal",
+   "where": "Signal, Brooklyn",
+   "names": [
+    "Interstellar Funk",
+    "Sibil",
+    "SPRKLBB"
+   ],
+   "lvl": 1,
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1107-outline",
+   "d": "2026-11-07",
+   "n": "OUTLINE",
+   "v": "knockdown-center",
+   "names": [
+    "Danny L Harle",
+    "yeule",
+    "Saya Gray",
+    "Contact Sports",
+    "Ela Minus"
+   ],
+   "s": 18,
+   "lvl": 4,
+   "url": "https://donyc.com/events/2026/11/7",
+   "src": "DoNYC",
+   "srcs": [
+    "DoNYC"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1107-nimino-keep-me-awake-tour",
+   "d": "2026-11-07",
+   "n": "nimino: Keep Me Awake Tour",
+   "v": "terminal-5",
+   "names": [
+    "nimino"
+   ],
+   "s": 21,
+   "lvl": 3,
+   "url": "https://donyc.com/events/2026/11/7",
+   "src": "DoNYC",
+   "srcs": [
+    "DoNYC"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1107-nervous-records-35th",
+   "d": "2026-11-07",
+   "n": "Nervous Records 35th",
+   "v": "brooklyn-pacha",
+   "names": [
+    "Louie Vega",
+    "Oscar G",
+    "Anané Vega",
+    "Will Automagic"
+   ],
+   "s": 22,
+   "e": 28,
+   "lvl": 3,
+   "status": "Surprise guest TBA",
+   "url": "https://pacha-nyc.com/",
+   "src": "Pacha New York",
+   "srcs": [
+    "Pacha New York"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1107-signal-meoko",
+   "d": "2026-11-07",
+   "n": "Signal × Meoko",
+   "where": "Signal, Brooklyn",
+   "names": [
+    "Oshana",
+    "Andrei Ciubuc",
+    "Maksim",
+    "Robin"
+   ],
+   "s": 22,
+   "lvl": 1,
+   "status": "$22.70",
+   "url": "https://shotgun.live/en/cities/new-york/techno",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1107-gimme-gimme-disco",
+   "d": "2026-11-07",
+   "n": "Gimme Gimme Disco",
+   "v": "le-poisson-rouge",
+   "names": [],
+   "s": 23,
+   "lvl": 1,
+   "url": "https://donyc.com/events/2026/11/7",
+   "src": "DoNYC",
+   "srcs": [
+    "DoNYC"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1107-justin-cudmore-at-refuge",
+   "d": "2026-11-07",
+   "n": "Justin Cudmore at Refuge",
+   "v": "refuge",
+   "names": [
+    "Justin Cudmore",
+    "Satoshi Tomiie",
+    "Bashkka",
+    "Kim Anh"
+   ],
+   "lvl": 1,
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1108-brooklyn-bridge-soiree-sunset-series",
+   "d": "2026-11-08",
+   "n": "Brooklyn Bridge Soirée · Sunset Series",
+   "v": "1-hotel-brooklyn-bridge",
+   "names": [],
+   "s": 17,
+   "lvl": 1,
+   "status": "$20",
+   "note": "Rooftop at Harriet’s Lounge",
+   "url": "https://shotgun.live/en/cities/new-york/house",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1108-feedbk-with-free-zing",
+   "d": "2026-11-08",
+   "n": "Feedbk with Free Zing",
+   "where": "Feedbk",
+   "names": [
+    "Free Zing"
+   ],
+   "s": 19,
+   "lvl": 1,
+   "status": "$15",
+   "url": "https://shotgun.live/en/cities/new-york/house",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1109-durations-2026",
+   "d": "2026-11-09",
+   "n": "durations 2026",
+   "v": "public-records",
+   "names": [
+    "Buttechno",
+    "DJ Sprinkles",
+    "dasha rush",
+    "Jjjjjerome Ellis",
+    "Klein",
+    "Suzanne Ciani"
+   ],
+   "lvl": 3,
+   "status": "Festival pass",
+   "note": "Seven nights of electronic and ambient music; nightly bill not posted",
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "series": "durations-2026",
+   "mentions": 0
+  },
+  {
+   "id": "1110-durations-2026-night-two",
+   "d": "2026-11-10",
+   "n": "durations 2026 · night two",
+   "v": "public-records",
+   "names": [
+    "Buttechno",
+    "DJ Sprinkles",
+    "dasha rush",
+    "Jjjjjerome Ellis",
+    "Klein",
+    "Suzanne Ciani"
+   ],
+   "lvl": 3,
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "series": "durations-2026",
+   "mentions": 0
+  },
+  {
+   "id": "1111-durations-2026-night-three",
+   "d": "2026-11-11",
+   "n": "durations 2026 · night three",
+   "v": "public-records",
+   "names": [
+    "Buttechno",
+    "DJ Sprinkles",
+    "dasha rush",
+    "Jjjjjerome Ellis",
+    "Klein",
+    "Suzanne Ciani"
+   ],
+   "lvl": 3,
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "series": "durations-2026",
+   "mentions": 0
+  },
+  {
+   "id": "1112-durations-2026-night-four",
+   "d": "2026-11-12",
+   "n": "durations 2026 · night four",
+   "v": "public-records",
+   "names": [
+    "Buttechno",
+    "DJ Sprinkles",
+    "dasha rush",
+    "Jjjjjerome Ellis",
+    "Klein",
+    "Suzanne Ciani"
+   ],
+   "lvl": 3,
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "series": "durations-2026",
+   "mentions": 0
+  },
+  {
+   "id": "1112-headache",
+   "d": "2026-11-12",
+   "n": "headache",
+   "v": "knockdown-center",
+   "names": [
+    "headache",
+    "amr*",
+    "Collé",
+    "Baba Stiltz"
+   ],
+   "lvl": 3,
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1113-dj-harvey",
+   "d": "2026-11-13",
+   "n": "DJ Harvey",
+   "v": "knockdown-center",
+   "names": [
+    "DJ Harvey",
+    "Dee Diggs"
+   ],
+   "s": 22,
+   "e": 29,
+   "lvl": 3,
+   "status": "21+",
+   "url": "https://ra.co/events/2513643",
+   "src": "RA",
+   "srcs": [
+    "RA"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1113-night-and-day",
+   "d": "2026-11-13",
+   "n": "Night & Day",
+   "where": "Signal, Brooklyn",
+   "names": [
+    "Ellen Allien",
+    "Rrose",
+    "Spekki Webu",
+    "Kyruh"
+   ],
+   "s": 22,
+   "lvl": 1,
+   "status": "$34.05",
+   "url": "https://shotgun.live/en/cities/new-york/techno",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1113-miss-monique-presents-biorhythm",
+   "d": "2026-11-13",
+   "n": "Miss Monique presents Biorhythm",
+   "v": "brooklyn-pacha",
+   "names": [
+    "Miss Monique"
+   ],
+   "s": 22,
+   "e": 28,
+   "lvl": 3,
+   "url": "https://pacha-nyc.com/",
+   "src": "Pacha New York",
+   "srcs": [
+    "Pacha New York"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1113-vrh-collective-one-year",
+   "d": "2026-11-13",
+   "n": "Vrh Collective · one year",
+   "where": "EDEN",
+   "names": [],
+   "s": 22,
+   "lvl": 1,
+   "status": "$32.10",
+   "url": "https://shotgun.live/en/cities/new-york/techno",
+   "src": "Shotgun",
+   "srcs": [
+    "Shotgun"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1113-durations-2026-night-five",
+   "d": "2026-11-13",
+   "n": "durations 2026 · night five",
+   "v": "public-records",
+   "names": [
+    "Buttechno",
+    "DJ Sprinkles",
+    "dasha rush",
+    "Jjjjjerome Ellis",
+    "Klein",
+    "Suzanne Ciani"
+   ],
+   "lvl": 3,
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "series": "durations-2026",
+   "mentions": 0
+  },
+  {
+   "id": "1114-madeon",
+   "d": "2026-11-14",
+   "n": "Madeon",
+   "v": "brooklyn-pacha",
+   "names": [
+    "Madeon",
+    "Anamanaguchi"
+   ],
+   "s": 22,
+   "e": 28,
+   "lvl": 3,
+   "status": "Backstage sold out",
+   "url": "https://pacha-nyc.com/",
+   "src": "Pacha New York",
+   "srcs": [
+    "Pacha New York"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1114-durations-2026-night-six",
+   "d": "2026-11-14",
+   "n": "durations 2026 · night six",
+   "v": "public-records",
+   "names": [
+    "Buttechno",
+    "DJ Sprinkles",
+    "dasha rush",
+    "Jjjjjerome Ellis",
+    "Klein",
+    "Suzanne Ciani"
+   ],
+   "lvl": 3,
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "series": "durations-2026",
+   "mentions": 0
+  },
+  {
+   "id": "1115-durations-2026-closing",
+   "d": "2026-11-15",
+   "n": "durations 2026 · closing",
+   "v": "public-records",
+   "names": [
+    "Buttechno",
+    "DJ Sprinkles",
+    "dasha rush",
+    "Jjjjjerome Ellis",
+    "Klein",
+    "Suzanne Ciani"
+   ],
+   "lvl": 3,
+   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
+   "src": "Songkick",
+   "srcs": [
+    "Songkick"
+   ],
+   "series": "durations-2026",
+   "mentions": 0
+  },
+  {
+   "id": "1120-autumn-lights-nyc",
+   "d": "2026-11-20",
+   "n": "Autumn Lights NYC",
+   "v": "melrose-ballroom",
+   "names": [
+    "Blasterjaxx",
+    "MaRLo",
+    "Zanny Duko"
+   ],
+   "s": 20,
+   "e": 28,
+   "lvl": 2,
+   "url": "https://www.eventbrite.com/e/autumn-lights-nyc-2026-blasterjaxx-marlo-more-tickets-2002925646526",
+   "src": "Eventbrite",
+   "srcs": [
+    "Eventbrite"
+   ],
+   "series": "autumn-lights",
+   "mentions": 0
+  },
+  {
+   "id": "1120-time-warp-new-york",
+   "d": "2026-11-20",
+   "n": "Time Warp New York",
+   "v": "duggal-greenhouse",
+   "names": [
+    "Anetha",
+    "Annie Lew",
+    "ChaseWest",
+    "DJ Tennis b2b Red Axes",
+    "Franky Rizardo",
+    "Indira Paganotto",
+    "Kilopatrah Jones",
+    "Novah",
+    "Silvie Loto",
+    "VTSS"
+   ],
+   "s": 22,
+   "e": 30,
+   "lvl": 5,
+   "status": "21+",
+   "note": "Duggal Greenhouse and the Agger Building",
+   "url": "https://www.time-warp.de/usa/nyc/",
+   "src": "Time Warp",
+   "srcs": [
+    "Time Warp"
+   ],
+   "series": "time-warp-nyc",
+   "fest": true,
+   "mentions": 0
+  },
+  {
+   "id": "1121-time-warp-new-york-night-two",
+   "d": "2026-11-21",
+   "n": "Time Warp New York · night two",
+   "v": "duggal-greenhouse",
+   "names": [
+    "Sven Väth",
+    "DVS1",
+    "Âme DJ",
+    "Klangkuenstler",
+    "Chlär",
+    "Adiel b2b Quest",
+    "Brunello",
+    "Julya Karma",
+    "KYRUH",
+    "Rose Kourts"
+   ],
+   "s": 22,
+   "e": 30,
+   "lvl": 5,
+   "status": "21+",
+   "note": "Duggal Greenhouse and the Agger Building",
+   "url": "https://www.time-warp.de/usa/nyc/",
+   "src": "Time Warp",
+   "srcs": [
+    "Time Warp"
+   ],
+   "series": "time-warp-nyc",
+   "fest": true,
+   "mentions": 0
+  },
+  {
+   "id": "1121-luciano-and-friends",
+   "d": "2026-11-21",
+   "n": "Luciano & Friends",
+   "v": "brooklyn-pacha",
+   "names": [
+    "Luciano",
+    "ALCI",
+    "OMRI.",
+    "Rana Iravani"
+   ],
+   "s": 22,
+   "e": 28,
+   "lvl": 3,
+   "url": "https://pacha-nyc.com/",
+   "src": "Pacha New York",
+   "srcs": [
+    "Pacha New York"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1121-autumn-lights-nyc-night-two",
+   "d": "2026-11-21",
+   "n": "Autumn Lights NYC · night two",
+   "v": "melrose-ballroom",
+   "names": [],
+   "lvl": 2,
+   "note": "Nightly lineup not posted",
+   "url": "https://www.eventbrite.com/e/autumn-lights-nyc-2026-blasterjaxx-marlo-more-tickets-2002925646526",
+   "src": "Eventbrite",
+   "srcs": [
+    "Eventbrite"
+   ],
+   "series": "autumn-lights",
+   "mentions": 0
+  },
+  {
+   "id": "1127-guy-gerber",
+   "d": "2026-11-27",
+   "n": "Guy Gerber",
+   "v": "brooklyn-pacha",
+   "names": [
+    "Guy Gerber"
+   ],
+   "s": 22,
+   "e": 28,
+   "lvl": 3,
+   "url": "https://pacha-nyc.com/",
+   "src": "Pacha New York",
+   "srcs": [
+    "Pacha New York"
+   ],
+   "mentions": 0
+  },
+  {
+   "id": "1128-mathame",
+   "d": "2026-11-28",
+   "n": "Mathame",
+   "v": "brooklyn-pacha",
+   "names": [
+    "Mathame",
+    "SCRIPT",
+    "David Lindmer"
+   ],
+   "s": 22,
+   "e": 28,
+   "lvl": 3,
+   "url": "https://pacha-nyc.com/",
+   "src": "Pacha New York",
+   "srcs": [
+    "Pacha New York"
+   ],
+   "mentions": 0
+  }
+ ]
+}
