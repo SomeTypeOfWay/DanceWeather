@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T21:06:55.679Z",
- "today": "2026-10-29",
- "through": "2026-12-10",
+ "updated": "2026-10-30T05:59:34.035Z",
+ "today": "2026-10-30",
+ "through": "2026-12-11",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -11,18 +11,6 @@
   "reddit": 0
  },
  "venues": {
-  "sultan-room": {
-   "n": "Sultan Room",
-   "a": "Bushwick",
-   "x": 286,
-   "y": 226
-  },
-  "house-of-yes": {
-   "n": "House of Yes",
-   "a": "Bushwick",
-   "x": 306,
-   "y": 212
-  },
   "brooklyn-storehouse": {
    "n": "Brooklyn Storehouse",
    "a": "Navy Yard",
@@ -46,6 +34,12 @@
    "a": "Williamsburg",
    "x": 192,
    "y": 200
+  },
+  "sultan-room": {
+   "n": "Sultan Room",
+   "a": "Bushwick",
+   "x": 286,
+   "y": 226
   },
   "nebula": {
    "n": "Nebula",
@@ -94,6 +88,12 @@
    "a": "East Williamsburg",
    "x": 256,
    "y": 158
+  },
+  "house-of-yes": {
+   "n": "House of Yes",
+   "a": "Bushwick",
+   "x": 306,
+   "y": 212
   },
   "paragon": {
    "n": "Paragon",
@@ -169,40 +169,6 @@
   }
  },
  "events": [
-  {
-   "id": "1029-dyke-o-ween",
-   "d": "2026-10-29",
-   "n": "DYKE-o-Ween",
-   "v": "sultan-room",
-   "names": [
-    "DJ Ultra Violet",
-    "DJ Purr",
-    "DJ Kye"
-   ],
-   "s": 20.5,
-   "lvl": 1,
-   "note": "Night one of the Sultan Room’s Halloweekend",
-   "url": "https://www.bkmag.com/2026/10/28/best-halloween-parties-brooklyn-nyc/",
-   "src": "Brooklyn Magazine",
-   "srcs": [
-    "Brooklyn Magazine"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1029-gaydar-halloween",
-   "d": "2026-10-29",
-   "n": "Gaydar Halloween",
-   "v": "house-of-yes",
-   "names": [],
-   "lvl": 2,
-   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
-   "src": "Dice",
-   "srcs": [
-    "Dice"
-   ],
-   "mentions": 0
-  },
   {
    "id": "1030-fruit-juice-witches-brew",
    "d": "2026-10-30",
