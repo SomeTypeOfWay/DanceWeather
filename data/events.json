@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T21:42:53.776Z",
- "today": "2026-10-31",
- "through": "2026-12-12",
+ "updated": "2026-11-01T06:22:11.593Z",
+ "today": "2026-11-01",
+ "through": "2026-12-13",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -17,83 +17,17 @@
    "x": 150,
    "y": 224
   },
-  "tba-brooklyn": {
-   "n": "TBA Brooklyn",
-   "a": "Williamsburg",
-   "x": 166,
-   "y": 190
-  },
-  "racket": {
-   "n": "Racket",
-   "a": "Chelsea",
-   "x": 48,
-   "y": 34
-  },
   "h0l0": {
    "n": "H0L0",
    "a": "Ridgewood",
    "x": 352,
    "y": 222
   },
-  "elsewhere": {
-   "n": "Elsewhere",
-   "a": "Bushwick",
-   "x": 302,
-   "y": 192
-  },
-  "dead-letter-no-9": {
-   "n": "Dead Letter No. 9",
+  "tba-brooklyn": {
+   "n": "TBA Brooklyn",
    "a": "Williamsburg",
-   "x": 168,
-   "y": 166
-  },
-  "gum-studios": {
-   "n": "GUM Studios",
-   "a": "Sunset Park",
-   "x": 26,
-   "y": 410
-  },
-  "silo": {
-   "n": "SILO",
-   "a": "East Williamsburg",
-   "x": 256,
-   "y": 158
-  },
-  "house-of-yes": {
-   "n": "House of Yes",
-   "a": "Bushwick",
-   "x": 306,
-   "y": 212
-  },
-  "paragon": {
-   "n": "Paragon",
-   "a": "Bushwick",
-   "x": 258,
-   "y": 240
-  },
-  "refuge": {
-   "n": "Refuge",
-   "a": "East Williamsburg",
-   "x": 250,
-   "y": 180
-  },
-  "industry-city": {
-   "n": "Industry City",
-   "a": "Sunset Park",
-   "x": 40,
-   "y": 384
-  },
-  "superior-ingredients": {
-   "n": "Superior Ingredients",
-   "a": "Williamsburg",
-   "x": 178,
-   "y": 140
-  },
-  "3-dollar-bill": {
-   "n": "3 Dollar Bill",
-   "a": "East Williamsburg",
-   "x": 238,
-   "y": 198
+   "x": 166,
+   "y": 190
   },
   "1-hotel-brooklyn-bridge": {
    "n": "1 Hotel Brooklyn Bridge",
@@ -112,6 +46,18 @@
    "a": "East Williamsburg",
    "x": 278,
    "y": 178
+  },
+  "elsewhere": {
+   "n": "Elsewhere",
+   "a": "Bushwick",
+   "x": 302,
+   "y": 192
+  },
+  "refuge": {
+   "n": "Refuge",
+   "a": "East Williamsburg",
+   "x": 250,
+   "y": 180
   },
   "terminal-5": {
    "n": "Terminal 5",
@@ -145,313 +91,6 @@
   }
  },
  "events": [
-  {
-   "id": "1031-halloweentown",
-   "d": "2026-10-31",
-   "n": "Halloweentown",
-   "v": "3-dollar-bill",
-   "names": [
-    "Latrice Royale"
-   ],
-   "s": 21,
-   "e": 28,
-   "lvl": 1,
-   "note": "Two dance floors, midnight costume contest",
-   "url": "https://www.3dollarbillbk.com/rsvp",
-   "src": "3 Dollar Bill",
-   "srcs": [
-    "3 Dollar Bill"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1031-circoloco-halloween",
-   "d": "2026-10-31",
-   "n": "Circoloco Halloween",
-   "v": "brooklyn-storehouse",
-   "names": [
-    "Dixon",
-    "ANOTR",
-    "Jimi Jules",
-    "Rossi.",
-    "Aline Umber",
-    "Jamback",
-    "K:ROL"
-   ],
-   "s": 22,
-   "lvl": 5,
-   "status": "Sold out · waitlist",
-   "by": "Teksupport × Circoloco · 21+",
-   "url": "https://brooklynstorehouse.com/whats-on/",
-   "src": "Brooklyn Storehouse",
-   "srcs": [
-    "Brooklyn Storehouse"
-   ],
-   "series": "circoloco-halloween",
-   "mentions": 0
-  },
-  {
-   "id": "1031-bassvictim-halloween-afterparty",
-   "d": "2026-10-31",
-   "n": "Bassvictim Halloween Afterparty",
-   "v": "gum-studios",
-   "names": [
-    "Bassvictim",
-    "F1LTHY",
-    "Toxe",
-    "DJH",
-    "Thoom",
-    "Nurse",
-    "MAXWELL VICE",
-    "EMMA X"
-   ],
-   "s": 22,
-   "e": 28,
-   "lvl": 2,
-   "status": "On Posh",
-   "note": "Circus-themed warehouse rave",
-   "url": "https://events.musicofourdesire.com/event/rdsh-circus-maximus-halloween-rave-party-new-york-city-united-states",
-   "src": "Event listing",
-   "srcs": [
-    "Event listing"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1031-rooftop-halloween",
-   "d": "2026-10-31",
-   "n": "Rooftop Halloween",
-   "v": "superior-ingredients",
-   "names": [
-    "Pshah",
-    "Cutback",
-    "Tim Houston",
-    "Vitamin K",
-    "Lilyana",
-    "Liard",
-    "Ben Salazar",
-    "Riri Maul"
-   ],
-   "s": 22,
-   "lvl": 3,
-   "note": "Glass-enclosed rooftop",
-   "url": "https://www.alwaysthevip.com/featured-events/halloween-parties/",
-   "src": "Always The VIP",
-   "srcs": [
-    "Always The VIP"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1031-dawn-of-djs-ii",
-   "d": "2026-10-31",
-   "n": "Dawn of the DJs II",
-   "v": "tba-brooklyn",
-   "names": [
-    "DJ Bone",
-    "Priori",
-    "Galcher Lustwerk (live)"
-   ],
-   "lvl": 3,
-   "status": "RA Pick",
-   "note": "Golden Record NYC · house and techno over two days",
-   "url": "https://ra.co/events/2438874",
-   "src": "RA Picks",
-   "srcs": [
-    "RA Picks"
-   ],
-   "series": "dawn-of-the-djs",
-   "raPick": true,
-   "mentions": 0
-  },
-  {
-   "id": "1031-paul-oakenfold-and-crystal-method",
-   "d": "2026-10-31",
-   "n": "Paul Oakenfold & The Crystal Method",
-   "v": "racket",
-   "names": [
-    "Paul Oakenfold",
-    "The Crystal Method",
-    "Liquid Todd"
-   ],
-   "lvl": 3,
-   "status": "RA Pick",
-   "note": "Trance and big beat",
-   "url": "https://ra.co/events/2438874",
-   "src": "RA Picks",
-   "srcs": [
-    "RA Picks"
-   ],
-   "raPick": true,
-   "mentions": 0
-  },
-  {
-   "id": "1031-resolute-why-so-serious",
-   "d": "2026-10-31",
-   "n": "Resolute: Why So Serious",
-   "v": "h0l0",
-   "names": [],
-   "lvl": 3,
-   "status": "$110 · three days",
-   "note": "Halloween run through Monday",
-   "url": "https://shotgun.live/en/cities/new-york/techno",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "series": "resolute-halloween",
-   "mentions": 0
-  },
-  {
-   "id": "1031-elsewhere-halloween",
-   "d": "2026-10-31",
-   "n": "Elsewhere Halloween",
-   "v": "elsewhere",
-   "names": [
-    "Major League DJz",
-    "Bantu",
-    "SAIDAH",
-    "D Stone",
-    "Ariel Lights b2b Sissy Elliott",
-    "Kush Jones"
-   ],
-   "lvl": 3,
-   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
-   "src": "Dice",
-   "srcs": [
-    "Dice"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1031-eyes-wide-open-pt-4-of-4",
-   "d": "2026-10-31",
-   "n": "Eyes Wide Open · Pt. 4 of 4",
-   "v": "dead-letter-no-9",
-   "names": [
-    "Sterling Juan Diaz",
-    "Haruka",
-    "KNDYFRK"
-   ],
-   "lvl": 2,
-   "status": "Billed as final night",
-   "url": "https://ra.co/events/2438874",
-   "src": "RA Picks",
-   "srcs": [
-    "RA Picks"
-   ],
-   "raPick": true,
-   "final": true,
-   "mentions": 0
-  },
-  {
-   "id": "1031-halloween-at-silo",
-   "d": "2026-10-31",
-   "n": "Halloween at SILO",
-   "v": "silo",
-   "names": [
-    "Xenia",
-    "Firebunny",
-    "Steen"
-   ],
-   "lvl": 2,
-   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
-   "src": "Dice",
-   "srcs": [
-    "Dice"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1031-house-of-hallucinations",
-   "d": "2026-10-31",
-   "n": "House of Hallucinations",
-   "v": "house-of-yes",
-   "names": [
-    "Ines Rau",
-    "Baltra",
-    "Lingua Erotica",
-    "Sharlese",
-    "Lauren Ritter",
-    "America Rose"
-   ],
-   "lvl": 3,
-   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
-   "src": "Dice",
-   "srcs": [
-    "Dice"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1031-paragon-halloween",
-   "d": "2026-10-31",
-   "n": "Paragon Halloween",
-   "v": "paragon",
-   "names": [
-    "Boris",
-    "Juana",
-    "VILE",
-    "DJ SWISHA",
-    "NextDi"
-   ],
-   "lvl": 3,
-   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
-   "src": "Dice",
-   "srcs": [
-    "Dice"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1031-nicole-moudaber",
-   "d": "2026-10-31",
-   "n": "Nicole Moudaber",
-   "v": "refuge",
-   "names": [
-    "Nicole Moudaber"
-   ],
-   "lvl": 1,
-   "url": "https://www.shazam.com/en-us/events/new-york-ny-united-states/-/-/techno-1050",
-   "src": "Shazam",
-   "srcs": [
-    "Shazam"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1031-vampire-ball-all-hallows-eve",
-   "d": "2026-10-31",
-   "n": "The Vampire Ball · All Hallows Eve",
-   "v": "industry-city",
-   "names": [],
-   "lvl": 2,
-   "url": "https://dice.fm/browse/new_york-5bbf4db0f06331478e9b2c59/music/party/techno",
-   "src": "Dice",
-   "srcs": [
-    "Dice"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1031-feedbk-halloween",
-   "d": "2026-10-31",
-   "n": "Feedbk Halloween",
-   "where": "Feedbk",
-   "names": [
-    "Faciendo Soundsystem"
-   ],
-   "lvl": 1,
-   "status": "$22.70",
-   "note": "Runs Oct 31 – Nov 2",
-   "url": "https://shotgun.live/en/cities/new-york/house",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "series": "feedbk-halloween",
-   "mentions": 0
-  },
   {
    "id": "1101-circoloco-halloween",
    "d": "2026-11-01",
