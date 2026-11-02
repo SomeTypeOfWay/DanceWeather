@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T22:10:06.853Z",
- "today": "2026-11-01",
- "through": "2026-12-13",
+ "updated": "2026-11-02T06:23:58.059Z",
+ "today": "2026-11-02",
+ "through": "2026-12-14",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -11,35 +11,17 @@
   "reddit": 0
  },
  "venues": {
-  "brooklyn-storehouse": {
-   "n": "Brooklyn Storehouse",
-   "a": "Navy Yard",
-   "x": 150,
-   "y": 224
+  "knockdown-center": {
+   "n": "Knockdown Center",
+   "a": "Maspeth",
+   "x": 324,
+   "y": 158
   },
   "h0l0": {
    "n": "H0L0",
    "a": "Ridgewood",
    "x": 352,
    "y": 222
-  },
-  "tba-brooklyn": {
-   "n": "TBA Brooklyn",
-   "a": "Williamsburg",
-   "x": 166,
-   "y": 190
-  },
-  "1-hotel-brooklyn-bridge": {
-   "n": "1 Hotel Brooklyn Bridge",
-   "a": "DUMBO",
-   "x": 92,
-   "y": 222
-  },
-  "knockdown-center": {
-   "n": "Knockdown Center",
-   "a": "Maspeth",
-   "x": 324,
-   "y": 158
   },
   "brooklyn-pacha": {
    "n": "Brooklyn Pacha",
@@ -71,6 +53,12 @@
    "x": 60,
    "y": 120
   },
+  "1-hotel-brooklyn-bridge": {
+   "n": "1 Hotel Brooklyn Bridge",
+   "a": "DUMBO",
+   "x": 92,
+   "y": 222
+  },
   "public-records": {
    "n": "Public Records",
    "a": "Gowanus",
@@ -91,103 +79,6 @@
   }
  },
  "events": [
-  {
-   "id": "1101-circoloco-halloween",
-   "d": "2026-11-01",
-   "n": "Circoloco Halloween",
-   "v": "brooklyn-storehouse",
-   "names": [
-    "Dixon",
-    "Bedouin",
-    "Chloé Caillet",
-    "Prospa",
-    "Jimi Jules",
-    "Rossi.",
-    "Dean Turnley",
-    "Miguelle & Tons"
-   ],
-   "s": 12,
-   "e": 24,
-   "lvl": 5,
-   "status": "On sale · from $180",
-   "by": "Teksupport × Circoloco · 21+",
-   "url": "https://brooklynstorehouse.com/whats-on/",
-   "src": "Brooklyn Storehouse",
-   "srcs": [
-    "Brooklyn Storehouse"
-   ],
-   "series": "circoloco-halloween",
-   "mentions": 0
-  },
-  {
-   "id": "1101-resolute-why-so-serious-day-two",
-   "d": "2026-11-01",
-   "n": "Resolute: Why So Serious · day two",
-   "v": "h0l0",
-   "names": [],
-   "lvl": 3,
-   "status": "$110 · three days",
-   "url": "https://shotgun.live/en/cities/new-york/techno",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "series": "resolute-halloween",
-   "mentions": 0
-  },
-  {
-   "id": "1101-dawn-of-djs-ii-day-two",
-   "d": "2026-11-01",
-   "n": "Dawn of the DJs II · day two",
-   "v": "tba-brooklyn",
-   "names": [
-    "DJ Bone",
-    "Priori",
-    "Galcher Lustwerk (live)"
-   ],
-   "lvl": 3,
-   "status": "RA Pick",
-   "url": "https://ra.co/events/2438874",
-   "src": "RA Picks",
-   "srcs": [
-    "RA Picks"
-   ],
-   "series": "dawn-of-the-djs",
-   "raPick": true,
-   "mentions": 0
-  },
-  {
-   "id": "1101-day-of-dead",
-   "d": "2026-11-01",
-   "n": "Day of the Dead",
-   "v": "1-hotel-brooklyn-bridge",
-   "names": [],
-   "lvl": 1,
-   "status": "$33.99",
-   "url": "https://dice.fm/bundles/halloween-events-in-nyc-gy7b",
-   "src": "Dice",
-   "srcs": [
-    "Dice"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1101-feedbk-halloween-day-two",
-   "d": "2026-11-01",
-   "n": "Feedbk Halloween · day two",
-   "where": "Feedbk",
-   "names": [
-    "Faciendo Soundsystem"
-   ],
-   "lvl": 1,
-   "url": "https://shotgun.live/en/cities/new-york/house",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "series": "feedbk-halloween",
-   "mentions": 0
-  },
   {
    "id": "1102-blaze",
    "d": "2026-11-02",
