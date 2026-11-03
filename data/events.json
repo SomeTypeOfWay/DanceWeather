@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T21:46:57.683Z",
- "today": "2026-11-02",
- "through": "2026-12-14",
+ "updated": "2026-11-03T06:58:48.118Z",
+ "today": "2026-11-03",
+ "through": "2026-12-15",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -17,17 +17,17 @@
    "x": 324,
    "y": 158
   },
-  "h0l0": {
-   "n": "H0L0",
-   "a": "Ridgewood",
-   "x": 352,
-   "y": 222
-  },
   "brooklyn-pacha": {
    "n": "Brooklyn Pacha",
    "a": "East Williamsburg",
    "x": 278,
    "y": 178
+  },
+  "h0l0": {
+   "n": "H0L0",
+   "a": "Ridgewood",
+   "x": 352,
+   "y": 222
   },
   "elsewhere": {
    "n": "Elsewhere",
@@ -79,55 +79,6 @@
   }
  },
  "events": [
-  {
-   "id": "1102-blaze",
-   "d": "2026-11-02",
-   "n": "The Blaze",
-   "v": "knockdown-center",
-   "names": [
-    "The Blaze"
-   ],
-   "lvl": 3,
-   "note": "Live electronic show",
-   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
-   "src": "Songkick",
-   "srcs": [
-    "Songkick"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1102-resolute-why-so-serious-closing",
-   "d": "2026-11-02",
-   "n": "Resolute: Why So Serious · closing",
-   "v": "h0l0",
-   "names": [],
-   "lvl": 2,
-   "url": "https://shotgun.live/en/cities/new-york/techno",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "series": "resolute-halloween",
-   "mentions": 0
-  },
-  {
-   "id": "1102-feedbk-halloween-day-three",
-   "d": "2026-11-02",
-   "n": "Feedbk Halloween · day three",
-   "where": "Feedbk",
-   "names": [
-    "Faciendo Soundsystem"
-   ],
-   "lvl": 1,
-   "url": "https://shotgun.live/en/cities/new-york/house",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "series": "feedbk-halloween",
-   "mentions": 0
-  },
   {
    "id": "1105-feedbk-rcr",
    "d": "2026-11-05",
