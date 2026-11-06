@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T20:05:02.852Z",
- "today": "2026-11-05",
- "through": "2026-12-17",
+ "updated": "2026-11-06T06:58:33.472Z",
+ "today": "2026-11-06",
+ "through": "2026-12-18",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -11,17 +11,17 @@
   "reddit": 0
  },
  "venues": {
-  "knockdown-center": {
-   "n": "Knockdown Center",
-   "a": "Maspeth",
-   "x": 324,
-   "y": 158
-  },
   "brooklyn-pacha": {
    "n": "Brooklyn Pacha",
    "a": "East Williamsburg",
    "x": 278,
    "y": 178
+  },
+  "knockdown-center": {
+   "n": "Knockdown Center",
+   "a": "Maspeth",
+   "x": 324,
+   "y": 158
   },
   "h0l0": {
    "n": "H0L0",
@@ -79,44 +79,6 @@
   }
  },
  "events": [
-  {
-   "id": "1105-feedbk-rcr",
-   "d": "2026-11-05",
-   "n": "Feedbk × RCR",
-   "where": "Feedbk",
-   "names": [
-    "Jeny Michelle",
-    "Shanti Mane"
-   ],
-   "s": 19,
-   "lvl": 1,
-   "status": "$15",
-   "url": "https://shotgun.live/en/cities/new-york/techno",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1105-boy-harsher",
-   "d": "2026-11-05",
-   "n": "Boy Harsher",
-   "v": "knockdown-center",
-   "names": [
-    "Boy Harsher",
-    "True Blue",
-    "Kassie Krut"
-   ],
-   "lvl": 3,
-   "note": "Darkwave",
-   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
-   "src": "Songkick",
-   "srcs": [
-    "Songkick"
-   ],
-   "mentions": 0
-  },
   {
    "id": "1106-brooklyn-pacha-opening-party",
    "d": "2026-11-06",
