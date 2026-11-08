@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T21:58:53.416Z",
- "today": "2026-11-07",
- "through": "2026-12-19",
+ "updated": "2026-11-08T06:17:01.383Z",
+ "today": "2026-11-08",
+ "through": "2026-12-20",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -11,36 +11,6 @@
   "reddit": 0
  },
  "venues": {
-  "brooklyn-pacha": {
-   "n": "Brooklyn Pacha",
-   "a": "East Williamsburg",
-   "x": 278,
-   "y": 178
-  },
-  "knockdown-center": {
-   "n": "Knockdown Center",
-   "a": "Maspeth",
-   "x": 324,
-   "y": 158
-  },
-  "refuge": {
-   "n": "Refuge",
-   "a": "East Williamsburg",
-   "x": 250,
-   "y": 180
-  },
-  "terminal-5": {
-   "n": "Terminal 5",
-   "a": "Hell’s Kitchen",
-   "x": 90,
-   "y": 8
-  },
-  "le-poisson-rouge": {
-   "n": "Le Poisson Rouge",
-   "a": "Greenwich Village",
-   "x": 60,
-   "y": 120
-  },
   "1-hotel-brooklyn-bridge": {
    "n": "1 Hotel Brooklyn Bridge",
    "a": "DUMBO",
@@ -52,6 +22,18 @@
    "a": "Gowanus",
    "x": 93,
    "y": 289
+  },
+  "knockdown-center": {
+   "n": "Knockdown Center",
+   "a": "Maspeth",
+   "x": 324,
+   "y": 158
+  },
+  "brooklyn-pacha": {
+   "n": "Brooklyn Pacha",
+   "a": "East Williamsburg",
+   "x": 278,
+   "y": 178
   },
   "duggal-greenhouse": {
    "n": "Duggal Greenhouse",
@@ -67,121 +49,6 @@
   }
  },
  "events": [
-  {
-   "id": "1107-outline",
-   "d": "2026-11-07",
-   "n": "OUTLINE",
-   "v": "knockdown-center",
-   "names": [
-    "Danny L Harle",
-    "yeule",
-    "Saya Gray",
-    "Contact Sports",
-    "Ela Minus"
-   ],
-   "s": 18,
-   "lvl": 4,
-   "url": "https://donyc.com/events/2026/11/7",
-   "src": "DoNYC",
-   "srcs": [
-    "DoNYC"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1107-nimino-keep-me-awake-tour",
-   "d": "2026-11-07",
-   "n": "nimino: Keep Me Awake Tour",
-   "v": "terminal-5",
-   "names": [
-    "nimino"
-   ],
-   "s": 21,
-   "lvl": 3,
-   "url": "https://donyc.com/events/2026/11/7",
-   "src": "DoNYC",
-   "srcs": [
-    "DoNYC"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1107-nervous-records-35th",
-   "d": "2026-11-07",
-   "n": "Nervous Records 35th",
-   "v": "brooklyn-pacha",
-   "names": [
-    "Louie Vega",
-    "Oscar G",
-    "Anané Vega",
-    "Will Automagic"
-   ],
-   "s": 22,
-   "e": 28,
-   "lvl": 3,
-   "status": "Surprise guest TBA",
-   "url": "https://pacha-nyc.com/",
-   "src": "Pacha New York",
-   "srcs": [
-    "Pacha New York"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1107-signal-meoko",
-   "d": "2026-11-07",
-   "n": "Signal × Meoko",
-   "where": "Signal, Brooklyn",
-   "names": [
-    "Oshana",
-    "Andrei Ciubuc",
-    "Maksim",
-    "Robin"
-   ],
-   "s": 22,
-   "lvl": 1,
-   "status": "$22.70",
-   "url": "https://shotgun.live/en/cities/new-york/techno",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1107-gimme-gimme-disco",
-   "d": "2026-11-07",
-   "n": "Gimme Gimme Disco",
-   "v": "le-poisson-rouge",
-   "names": [],
-   "s": 23,
-   "lvl": 1,
-   "url": "https://donyc.com/events/2026/11/7",
-   "src": "DoNYC",
-   "srcs": [
-    "DoNYC"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1107-justin-cudmore-at-refuge",
-   "d": "2026-11-07",
-   "n": "Justin Cudmore at Refuge",
-   "v": "refuge",
-   "names": [
-    "Justin Cudmore",
-    "Satoshi Tomiie",
-    "Bashkka",
-    "Kim Anh"
-   ],
-   "lvl": 1,
-   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
-   "src": "Songkick",
-   "srcs": [
-    "Songkick"
-   ],
-   "mentions": 0
-  },
   {
    "id": "1108-brooklyn-bridge-soiree-sunset-series",
    "d": "2026-11-08",
