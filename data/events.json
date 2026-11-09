@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T22:15:11.995Z",
- "today": "2026-11-08",
- "through": "2026-12-20",
+ "updated": "2026-11-09T06:50:05.442Z",
+ "today": "2026-11-09",
+ "through": "2026-12-21",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -11,12 +11,6 @@
   "reddit": 0
  },
  "venues": {
-  "1-hotel-brooklyn-bridge": {
-   "n": "1 Hotel Brooklyn Bridge",
-   "a": "DUMBO",
-   "x": 92,
-   "y": 222
-  },
   "public-records": {
    "n": "Public Records",
    "a": "Gowanus",
@@ -49,41 +43,6 @@
   }
  },
  "events": [
-  {
-   "id": "1108-brooklyn-bridge-soiree-sunset-series",
-   "d": "2026-11-08",
-   "n": "Brooklyn Bridge Soirée · Sunset Series",
-   "v": "1-hotel-brooklyn-bridge",
-   "names": [],
-   "s": 17,
-   "lvl": 1,
-   "status": "$20",
-   "note": "Rooftop at Harriet’s Lounge",
-   "url": "https://shotgun.live/en/cities/new-york/house",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1108-feedbk-with-free-zing",
-   "d": "2026-11-08",
-   "n": "Feedbk with Free Zing",
-   "where": "Feedbk",
-   "names": [
-    "Free Zing"
-   ],
-   "s": 19,
-   "lvl": 1,
-   "status": "$15",
-   "url": "https://shotgun.live/en/cities/new-york/house",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "mentions": 0
-  },
   {
    "id": "1109-durations-2026",
    "d": "2026-11-09",
