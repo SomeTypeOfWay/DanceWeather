@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T19:50:52.746Z",
- "today": "2026-11-10",
- "through": "2026-12-22",
+ "updated": "2026-11-11T06:42:57.648Z",
+ "today": "2026-11-11",
+ "through": "2026-12-23",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -43,28 +43,6 @@
   }
  },
  "events": [
-  {
-   "id": "1110-durations-2026-night-two",
-   "d": "2026-11-10",
-   "n": "durations 2026 · night two",
-   "v": "public-records",
-   "names": [
-    "Buttechno",
-    "DJ Sprinkles",
-    "dasha rush",
-    "Jjjjjerome Ellis",
-    "Klein",
-    "Suzanne Ciani"
-   ],
-   "lvl": 3,
-   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
-   "src": "Songkick",
-   "srcs": [
-    "Songkick"
-   ],
-   "series": "durations-2026",
-   "mentions": 0
-  },
   {
    "id": "1111-durations-2026-night-three",
    "d": "2026-11-11",
