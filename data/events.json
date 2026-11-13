@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T20:05:50.482Z",
- "today": "2026-11-12",
- "through": "2026-12-24",
+ "updated": "2026-11-13T06:55:22.373Z",
+ "today": "2026-11-13",
+ "through": "2026-12-25",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -11,12 +11,6 @@
   "reddit": 0
  },
  "venues": {
-  "public-records": {
-   "n": "Public Records",
-   "a": "Gowanus",
-   "x": 93,
-   "y": 289
-  },
   "knockdown-center": {
    "n": "Knockdown Center",
    "a": "Maspeth",
@@ -28,6 +22,12 @@
    "a": "East Williamsburg",
    "x": 278,
    "y": 178
+  },
+  "public-records": {
+   "n": "Public Records",
+   "a": "Gowanus",
+   "x": 93,
+   "y": 289
   },
   "duggal-greenhouse": {
    "n": "Duggal Greenhouse",
@@ -43,47 +43,6 @@
   }
  },
  "events": [
-  {
-   "id": "1112-durations-2026-night-four",
-   "d": "2026-11-12",
-   "n": "durations 2026 · night four",
-   "v": "public-records",
-   "names": [
-    "Buttechno",
-    "DJ Sprinkles",
-    "dasha rush",
-    "Jjjjjerome Ellis",
-    "Klein",
-    "Suzanne Ciani"
-   ],
-   "lvl": 3,
-   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
-   "src": "Songkick",
-   "srcs": [
-    "Songkick"
-   ],
-   "series": "durations-2026",
-   "mentions": 0
-  },
-  {
-   "id": "1112-headache",
-   "d": "2026-11-12",
-   "n": "headache",
-   "v": "knockdown-center",
-   "names": [
-    "headache",
-    "amr*",
-    "Collé",
-    "Baba Stiltz"
-   ],
-   "lvl": 3,
-   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
-   "src": "Songkick",
-   "srcs": [
-    "Songkick"
-   ],
-   "mentions": 0
-  },
   {
    "id": "1113-dj-harvey",
    "d": "2026-11-13",
