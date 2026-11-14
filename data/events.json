@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T19:51:01.183Z",
- "today": "2026-11-13",
- "through": "2026-12-25",
+ "updated": "2026-11-14T06:41:47.443Z",
+ "today": "2026-11-14",
+ "through": "2026-12-26",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -11,12 +11,6 @@
   "reddit": 0
  },
  "venues": {
-  "knockdown-center": {
-   "n": "Knockdown Center",
-   "a": "Maspeth",
-   "x": 324,
-   "y": 158
-  },
   "brooklyn-pacha": {
    "n": "Brooklyn Pacha",
    "a": "East Williamsburg",
@@ -43,103 +37,6 @@
   }
  },
  "events": [
-  {
-   "id": "1113-dj-harvey",
-   "d": "2026-11-13",
-   "n": "DJ Harvey",
-   "v": "knockdown-center",
-   "names": [
-    "DJ Harvey",
-    "Dee Diggs"
-   ],
-   "s": 22,
-   "e": 29,
-   "lvl": 3,
-   "status": "21+",
-   "url": "https://ra.co/events/2513643",
-   "src": "RA",
-   "srcs": [
-    "RA"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1113-night-and-day",
-   "d": "2026-11-13",
-   "n": "Night & Day",
-   "where": "Signal, Brooklyn",
-   "names": [
-    "Ellen Allien",
-    "Rrose",
-    "Spekki Webu",
-    "Kyruh"
-   ],
-   "s": 22,
-   "lvl": 1,
-   "status": "$34.05",
-   "url": "https://shotgun.live/en/cities/new-york/techno",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1113-miss-monique-presents-biorhythm",
-   "d": "2026-11-13",
-   "n": "Miss Monique presents Biorhythm",
-   "v": "brooklyn-pacha",
-   "names": [
-    "Miss Monique"
-   ],
-   "s": 22,
-   "e": 28,
-   "lvl": 3,
-   "url": "https://pacha-nyc.com/",
-   "src": "Pacha New York",
-   "srcs": [
-    "Pacha New York"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1113-vrh-collective-one-year",
-   "d": "2026-11-13",
-   "n": "Vrh Collective · one year",
-   "where": "EDEN",
-   "names": [],
-   "s": 22,
-   "lvl": 1,
-   "status": "$32.10",
-   "url": "https://shotgun.live/en/cities/new-york/techno",
-   "src": "Shotgun",
-   "srcs": [
-    "Shotgun"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1113-durations-2026-night-five",
-   "d": "2026-11-13",
-   "n": "durations 2026 · night five",
-   "v": "public-records",
-   "names": [
-    "Buttechno",
-    "DJ Sprinkles",
-    "dasha rush",
-    "Jjjjjerome Ellis",
-    "Klein",
-    "Suzanne Ciani"
-   ],
-   "lvl": 3,
-   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
-   "src": "Songkick",
-   "srcs": [
-    "Songkick"
-   ],
-   "series": "durations-2026",
-   "mentions": 0
-  },
   {
    "id": "1114-madeon",
    "d": "2026-11-14",
