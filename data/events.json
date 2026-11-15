@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T22:36:08.235Z",
- "today": "2026-11-14",
- "through": "2026-12-26",
+ "updated": "2026-11-15T06:46:40.373Z",
+ "today": "2026-11-15",
+ "through": "2026-12-27",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -11,12 +11,6 @@
   "reddit": 0
  },
  "venues": {
-  "brooklyn-pacha": {
-   "n": "Brooklyn Pacha",
-   "a": "East Williamsburg",
-   "x": 278,
-   "y": 178
-  },
   "public-records": {
    "n": "Public Records",
    "a": "Gowanus",
@@ -34,51 +28,15 @@
    "a": "Long Island City",
    "x": 279,
    "y": 18
+  },
+  "brooklyn-pacha": {
+   "n": "Brooklyn Pacha",
+   "a": "East Williamsburg",
+   "x": 278,
+   "y": 178
   }
  },
  "events": [
-  {
-   "id": "1114-madeon",
-   "d": "2026-11-14",
-   "n": "Madeon",
-   "v": "brooklyn-pacha",
-   "names": [
-    "Madeon",
-    "Anamanaguchi"
-   ],
-   "s": 22,
-   "e": 28,
-   "lvl": 3,
-   "status": "Backstage sold out",
-   "url": "https://pacha-nyc.com/",
-   "src": "Pacha New York",
-   "srcs": [
-    "Pacha New York"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1114-durations-2026-night-six",
-   "d": "2026-11-14",
-   "n": "durations 2026 · night six",
-   "v": "public-records",
-   "names": [
-    "Buttechno",
-    "DJ Sprinkles",
-    "dasha rush",
-    "Jjjjjerome Ellis",
-    "Klein",
-    "Suzanne Ciani"
-   ],
-   "lvl": 3,
-   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
-   "src": "Songkick",
-   "srcs": [
-    "Songkick"
-   ],
-   "series": "durations-2026",
-   "mentions": 0
-  },
   {
    "id": "1115-durations-2026-closing",
    "d": "2026-11-15",
