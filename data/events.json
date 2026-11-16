@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T18:57:07.379Z",
- "today": "2026-11-15",
- "through": "2026-12-27",
+ "updated": "2026-11-16T06:45:22.130Z",
+ "today": "2026-11-16",
+ "through": "2026-12-28",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -11,12 +11,6 @@
   "reddit": 0
  },
  "venues": {
-  "public-records": {
-   "n": "Public Records",
-   "a": "Gowanus",
-   "x": 93,
-   "y": 289
-  },
   "duggal-greenhouse": {
    "n": "Duggal Greenhouse",
    "a": "Navy Yard",
@@ -37,28 +31,6 @@
   }
  },
  "events": [
-  {
-   "id": "1115-durations-2026-closing",
-   "d": "2026-11-15",
-   "n": "durations 2026 · closing",
-   "v": "public-records",
-   "names": [
-    "Buttechno",
-    "DJ Sprinkles",
-    "dasha rush",
-    "Jjjjjerome Ellis",
-    "Klein",
-    "Suzanne Ciani"
-   ],
-   "lvl": 3,
-   "url": "https://www.songkick.com/metro-areas/7644-us-new-york-nyc/2026/genre/electronic",
-   "src": "Songkick",
-   "srcs": [
-    "Songkick"
-   ],
-   "series": "durations-2026",
-   "mentions": 0
-  },
   {
    "id": "1120-autumn-lights-nyc",
    "d": "2026-11-20",
