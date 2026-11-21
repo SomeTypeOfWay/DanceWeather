@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T20:30:25.740Z",
- "today": "2026-11-20",
- "through": "2027-01-01",
+ "updated": "2026-11-21T07:23:15.296Z",
+ "today": "2026-11-21",
+ "through": "2027-01-02",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -17,72 +17,20 @@
    "x": 146,
    "y": 205
   },
-  "melrose-ballroom": {
-   "n": "Melrose Ballroom",
-   "a": "Long Island City",
-   "x": 279,
-   "y": 18
-  },
   "brooklyn-pacha": {
    "n": "Brooklyn Pacha",
    "a": "East Williamsburg",
    "x": 278,
    "y": 178
+  },
+  "melrose-ballroom": {
+   "n": "Melrose Ballroom",
+   "a": "Long Island City",
+   "x": 279,
+   "y": 18
   }
  },
  "events": [
-  {
-   "id": "1120-autumn-lights-nyc",
-   "d": "2026-11-20",
-   "n": "Autumn Lights NYC",
-   "v": "melrose-ballroom",
-   "names": [
-    "Blasterjaxx",
-    "MaRLo",
-    "Zanny Duko"
-   ],
-   "s": 20,
-   "e": 28,
-   "lvl": 2,
-   "url": "https://www.eventbrite.com/e/autumn-lights-nyc-2026-blasterjaxx-marlo-more-tickets-2002925646526",
-   "src": "Eventbrite",
-   "srcs": [
-    "Eventbrite"
-   ],
-   "series": "autumn-lights",
-   "mentions": 0
-  },
-  {
-   "id": "1120-time-warp-new-york",
-   "d": "2026-11-20",
-   "n": "Time Warp New York",
-   "v": "duggal-greenhouse",
-   "names": [
-    "Anetha",
-    "Annie Lew",
-    "ChaseWest",
-    "DJ Tennis b2b Red Axes",
-    "Franky Rizardo",
-    "Indira Paganotto",
-    "Kilopatrah Jones",
-    "Novah",
-    "Silvie Loto",
-    "VTSS"
-   ],
-   "s": 22,
-   "e": 30,
-   "lvl": 5,
-   "status": "21+",
-   "note": "Duggal Greenhouse and the Agger Building",
-   "url": "https://www.time-warp.de/usa/nyc/",
-   "src": "Time Warp",
-   "srcs": [
-    "Time Warp"
-   ],
-   "series": "time-warp-nyc",
-   "fest": true,
-   "mentions": 0
-  },
   {
    "id": "1121-time-warp-new-york-night-two",
    "d": "2026-11-21",
