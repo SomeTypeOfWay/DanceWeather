@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T19:27:53.595Z",
- "today": "2026-11-21",
- "through": "2027-01-02",
+ "updated": "2026-11-22T07:03:56.703Z",
+ "today": "2026-11-22",
+ "through": "2027-01-03",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -11,94 +11,14 @@
   "reddit": 0
  },
  "venues": {
-  "duggal-greenhouse": {
-   "n": "Duggal Greenhouse",
-   "a": "Navy Yard",
-   "x": 146,
-   "y": 205
-  },
   "brooklyn-pacha": {
    "n": "Brooklyn Pacha",
    "a": "East Williamsburg",
    "x": 278,
    "y": 178
-  },
-  "melrose-ballroom": {
-   "n": "Melrose Ballroom",
-   "a": "Long Island City",
-   "x": 279,
-   "y": 18
   }
  },
  "events": [
-  {
-   "id": "1121-time-warp-new-york-night-two",
-   "d": "2026-11-21",
-   "n": "Time Warp New York · night two",
-   "v": "duggal-greenhouse",
-   "names": [
-    "Sven Väth",
-    "DVS1",
-    "Âme DJ",
-    "Klangkuenstler",
-    "Chlär",
-    "Adiel b2b Quest",
-    "Brunello",
-    "Julya Karma",
-    "KYRUH",
-    "Rose Kourts"
-   ],
-   "s": 22,
-   "e": 30,
-   "lvl": 5,
-   "status": "21+",
-   "note": "Duggal Greenhouse and the Agger Building",
-   "url": "https://www.time-warp.de/usa/nyc/",
-   "src": "Time Warp",
-   "srcs": [
-    "Time Warp"
-   ],
-   "series": "time-warp-nyc",
-   "fest": true,
-   "mentions": 0
-  },
-  {
-   "id": "1121-luciano-and-friends",
-   "d": "2026-11-21",
-   "n": "Luciano & Friends",
-   "v": "brooklyn-pacha",
-   "names": [
-    "Luciano",
-    "ALCI",
-    "OMRI.",
-    "Rana Iravani"
-   ],
-   "s": 22,
-   "e": 28,
-   "lvl": 3,
-   "url": "https://pacha-nyc.com/",
-   "src": "Pacha New York",
-   "srcs": [
-    "Pacha New York"
-   ],
-   "mentions": 0
-  },
-  {
-   "id": "1121-autumn-lights-nyc-night-two",
-   "d": "2026-11-21",
-   "n": "Autumn Lights NYC · night two",
-   "v": "melrose-ballroom",
-   "names": [],
-   "lvl": 2,
-   "note": "Nightly lineup not posted",
-   "url": "https://www.eventbrite.com/e/autumn-lights-nyc-2026-blasterjaxx-marlo-more-tickets-2002925646526",
-   "src": "Eventbrite",
-   "srcs": [
-    "Eventbrite"
-   ],
-   "series": "autumn-lights",
-   "mentions": 0
-  },
   {
    "id": "1127-guy-gerber",
    "d": "2026-11-27",
