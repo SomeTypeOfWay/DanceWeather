@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-27T21:26:52.642Z",
- "today": "2026-11-27",
- "through": "2027-01-08",
+ "updated": "2026-11-28T08:01:47.184Z",
+ "today": "2026-11-28",
+ "through": "2027-01-09",
  "city": "New York",
  "counts": {
   "manual": 68,
@@ -19,24 +19,6 @@
   }
  },
  "events": [
-  {
-   "id": "1127-guy-gerber",
-   "d": "2026-11-27",
-   "n": "Guy Gerber",
-   "v": "brooklyn-pacha",
-   "names": [
-    "Guy Gerber"
-   ],
-   "s": 22,
-   "e": 28,
-   "lvl": 3,
-   "url": "https://pacha-nyc.com/",
-   "src": "Pacha New York",
-   "srcs": [
-    "Pacha New York"
-   ],
-   "mentions": 0
-  },
   {
    "id": "1128-mathame",
    "d": "2026-11-28",
